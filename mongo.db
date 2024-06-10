@@ -1,0 +1,21 @@
+1 -  Faça uma pesquisa sobre a história do mongoDB e escreva sobre sua criação e aplicação.
+
+O MongoDB, criado em 2007 por Dwight Merriman, Eliot Horowitz e Kevin Ryan na DoubleClick (posteriormente adquirida pelo Google), surgiu para superar limitações dos bancos de dados relacionais na gestão de grandes volumes de dados e escalabilidade horizontal. Em 2009, a 10gen (agora MongoDB Inc.) lançou o MongoDB como um projeto de código aberto.
+
+Como um banco de dados NoSQL, o MongoDB armazena dados no formato BSON (Binary JSON), proporcionando alta flexibilidade e escalabilidade. Ele é amplamente utilizado em aplicações web e móveis, análise de big data, gestão de conteúdo, IoT e jogos, graças à sua capacidade de lidar com dados semi-estruturados e à sua escalabilidade horizontal.
+
+2 - Faça as seguintes operações:
+ 2.1 - Desenvolva um banco de dados utilizando o MongoDB, capaz de armazenar dados
+ relacionados aos equipamentos existentes na Faculdade e alimente a coleção com no
+ mínimo 20 equipamentos, apresentando diferentes configurações. Apenas dois dos
+ equipamentos cadastrados, deverão possuir impressora. Os dados devem seguir o
+ modelo anteriormente apresentado;
+
+
+
+
+
+
+
+
+
